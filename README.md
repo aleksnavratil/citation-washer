@@ -6,7 +6,7 @@ This is useful because you'll often get citations from a variety of sources, eac
 
 You could fix them by hand, but that would be boring. 
 
-So this program searches Google scholar by title, author, and year, and then replaces your old dirty BibTex with clean, uniform, GScholar style Bibtex.
+So this program searches Google scholar by title, author, and year, and then replaces your old dirty BibTex with clean, uniform, GScholar-style Bibtex.
 
 Google Scholar does not have a public API, so we have to rely on third-party scraping tools :(
 
